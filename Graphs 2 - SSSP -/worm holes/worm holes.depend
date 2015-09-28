@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1408284926 source:c:\users\admin\desktop\worm holes\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

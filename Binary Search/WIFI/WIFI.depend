@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1405268962 source:c:\users\admin\desktop\wifi\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

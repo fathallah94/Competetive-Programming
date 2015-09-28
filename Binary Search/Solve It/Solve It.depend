@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1407534299 source:c:\users\admin\desktop\solve it\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

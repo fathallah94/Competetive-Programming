@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1439650077 source:c:\users\admin\desktop\double profiles\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+

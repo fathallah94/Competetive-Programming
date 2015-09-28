@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410101122 source:c:\users\admin\desktop\road network\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

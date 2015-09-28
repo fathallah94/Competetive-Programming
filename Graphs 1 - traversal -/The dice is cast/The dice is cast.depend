@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1407639922 source:c:\users\admin\desktop\the dice is cast\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

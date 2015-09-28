@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1407622717 source:c:\users\admin\desktop\dominos2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1408393842 source:c:\users\admin\desktop\claw decomposition\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

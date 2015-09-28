@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1407625897 source:c:\users\admin\desktop\bicoloring\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
